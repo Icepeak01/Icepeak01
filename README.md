@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Opeyemi Okekunle 👋
+[![image](https://github.com/Icepeak01/Icepeak01/assets/153315141/19c1dfb8-75a4-4455-b36c-96f376c38bde)]((https://www.linkedin.com/in/opeyemiokekunle))
+![image](https://github.com/Icepeak01/Icepeak01/assets/153315141/1a74b338-3da0-40ba-a0cb-1200c2ef1bd8)
+![image](https://github.com/Icepeak01/Icepeak01/assets/153315141/1cf77db5-b048-4cde-b8c7-2e01bc1c9e6f)
+[![image](https://github.com/Icepeak01/Icepeak01/assets/153315141/38247943-ea1f-4435-a4e9-0ad2f90572fe)](https://wa.me/2348163223209)
+
+
+I am a passionate data scientist, specialized in Machine Learning, Data Science, Natural Language Processing (NLP), and Generative AI, with expertise in predictive modeling, deep learning, and NLP techniques, I develop and deploy impactful models. I excel in translating complex data insights into actionable strategies and thrive on bridging the gap between technical teams and business stakeholders. Committed to continuous learning and community engagement, I aim to advance AI technologies for real-world applications.
+
+
+
 
 <!--
 **Icepeak01/Icepeak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
