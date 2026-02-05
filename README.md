@@ -24,19 +24,19 @@ Complete Tensorflow 2 and Keras Deep Learning Bootcamp by Jose Portilla
 The Data Science Course: Complete Data Science Bootcamp 2023 by 365careers
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
-Linear Regression
-Logistic Regression
-Support Vector Machines (SVM)
-Decision Trees (DT)
-Random Forests (RF)
-K-Nearest Neighbors (KNN)
-Deep Neural Networks
-Convolutional Neural Networks (CNN)
-Recurrent Neural Networks (RNN)
-Naive Bayes (NB)
-Gradient Boosted Decision Trees (GBDT)
-XGBoost
-Long Short-Term Memory (LSTM)
+    Linear Regression
+    Logistic Regression
+    Support Vector Machines (SVM)
+    Decision Trees (DT)
+    Random Forests (RF)
+    K-Nearest Neighbors (KNN)
+    Deep Neural Networks
+    Convolutional Neural Networks (CNN)
+    Recurrent Neural Networks (RNN)
+    Naive Bayes (NB)
+    Gradient Boosted Decision Trees (GBDT)
+    XGBoost
+    Long Short-Term Memory (LSTM)
 
 # 🛠 My Skills 🛠
 ![image](https://github.com/Icepeak01/Icepeak01/assets/153315141/82f714db-3951-47ac-96a2-9ff85dce2a9d)
